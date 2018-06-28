@@ -1,5 +1,5 @@
 # PlaylistContinuation
-This code is our submission for the task of RecSys Challenge 2018
+This code is the submission for the task of RecSys Challenge 2018
 
 Team Name: FishInMedi
 
