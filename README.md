@@ -5,4 +5,5 @@ Team Name: FishInMedi
 
 Track: Main
 
-Notice: Be careful to change into right path when fetching or generating data on your own computer
+Notice: Run jupyter code blocks following one by one, and be careful to change into right path on your own computer
+ when fetching or generating data 
